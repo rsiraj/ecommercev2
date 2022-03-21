@@ -159,6 +159,7 @@ nav {
 
 .page-construction {
   margin-top: 4rem;
+  background-image: url("/public/img/notready.png");
   background-size: contain;
   background-repeat: space;
   height: 20vh;

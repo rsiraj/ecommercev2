@@ -34,7 +34,7 @@ const Home = () => {
                             <div className="article-info">
                                 <h4>Leaving plants unattended for a while?</h4>
                                 <p>Vacations, work trips, holidays - we cant always be home to care for our plants, but it doesnt take much to ensure your plants dont suffer while you're gone.</p>
-                                <a href="/uconstruction.html" className="text-main">Learn more</a>
+                                <a href="/uconstruction" className="text-main">Learn more</a>
                             </div>
                         </div>
                         <div className="article">
@@ -44,7 +44,7 @@ const Home = () => {
                             <div className="article-info">
                                 <h4>Can't remember when to water?</h4>
                                 <p>Download our app and get notifications when its time to water/repot your plant. Follow the guide on our <a href="/uconstruction.html" className="text-main">Plant Care</a> page</p>
-                                <a href="/uconstruction.html" className="text-main">Learn more</a>
+                                <a href="/uconstruction" className="text-main">Learn more</a>
                             </div>
                         </div>
                         <div className="article">
@@ -54,7 +54,7 @@ const Home = () => {
                             <div className="article-info">
                                 <h4>Don't know which plant to buy?</h4>
                                 <p>Read our guide on types of houseplants to learn which plants fit your lifestyle and ability to take care of them</p>
-                                <a href="/uconstruction.html" className="text-main">Learn more</a>
+                                <a href="/uconstruction" className="text-main">Learn more</a>
                             </div>
                         </div>
                     </div>

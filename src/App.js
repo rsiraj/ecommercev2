@@ -7,6 +7,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import Products from './pages/Products';
+import Contact from './pages/Contact';
+import Uconstruction from './pages/Uconstruction';
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/products' element={<Products />}/>
+        <Route path='/contact' element={<Contact />}/>
+        <Route path='/uconstruction' element={<Uconstruction />}/>
       </Routes>
       <Footer />
     </Router>

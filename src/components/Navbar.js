@@ -26,9 +26,9 @@ const Navbar = () => {
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><a href="/products">Shop</a></li>
-                            <li><a href="/uconstruction.html">Plant Care</a></li>
-                            <li><a href="/contact.html">Contact</a></li>
-                            <li><a href="/about.html">About</a></li>
+                            <li><a href="/uconstruction">Plant Care</a></li>
+                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/uconstruction">About</a></li>
                         </ul>
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const Navbar = () => {
                         <div className="sub-nav-bottom-links">
                             <a href="/">Free Shipping</a> |
                             <a href="/">3-Day Delivery</a> |
-                            <a href="/uconstruction.html">Free Plantcare Info</a>
+                            <a href="/uconstruction">Free Plantcare Info</a>
                         </div>
                     </div>
                 </div>
@@ -52,11 +52,11 @@ const Navbar = () => {
                     <span className="ti-bag"></span>
                     <p>Shop</p>
                 </div></a>
-                <a href="/uconstruction.html"><div className="menu-item">
+                <a href="/uconstruction"><div className="menu-item">
                     <span className="ti-shine"></span>
                     <p>Plant Care</p>
                 </div></a>
-                <a href="/contact.html"><div className="menu-item">
+                <a href="/contact"><div className="menu-item">
                     <span className="ti-comment"></span>
                     <p>Contact</p>
                 </div></a>

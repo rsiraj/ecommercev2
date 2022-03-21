@@ -14,7 +14,7 @@ const Testimonials = () => {
             showThumbs={false}
             showStatus={false}
             autoPlay={true}
-            interval={6100}
+            interval={4100}
             >
             {
                 testimonials.map((data) => (
@@ -29,7 +29,7 @@ const Testimonials = () => {
                     )
                 )
             }
-        </Carousel>
+            </Carousel>
         </>
     )
 }
