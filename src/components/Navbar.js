@@ -5,14 +5,14 @@ const Navbar = () => {
         <>
             <div className='wrapper'>
                 <nav> 
-                    <a href="/uconstruction.html" aria-label="Search">
+                    <a href="/uconstruction" aria-label="Search">
                     <div className="menu-toggle">
                         <span className="ti-search"></span>
                     </div></a>
                     <div className="brand">
                         <a href="/"><h2 className="text-main">Plant Heaven</h2></a>
                     </div>
-                    <a href="/uconstruction.html" aria-label="Search">
+                    <a href="/uconstruction" aria-label="Search">
                     <div className="cart">
                         <span className="ti-shopping-cart"></span>
                         <span className="cart-count"><span className="text-main">3</span></span>
