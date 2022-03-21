@@ -1,0 +1,135 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Monstera 'Split-Leaf'",
+            "image": "./img/prod1.jpeg",
+            "price": 19.99,
+            "description": "It is a climbing, evergreen perennial vine that is perhaps most noted for its large perforated leaves on thick plant stems and its long cord-like aerial roots.",
+            "category": "monstera",
+            "sale": ""
+        },
+        {
+            "id": "2",
+            "title": "Pothos 'N'joy'",
+            "image": "./img/prod2.jpeg",
+            "price": 13.99,
+            "description": "This Air purifying plant is arguably one of the easiest plants to grow indoors. The pothos grows in a vine like fashion making it a great plant to have in a hanging display to fill up any empty space on a shelf or desktop.",
+            "category": "pothos",
+            "sale": "SALE"
+        },
+        {
+            "id": "3",
+            "title": "Succulent 'String of Pearls",
+            "image": "./img/prod3.jpeg",
+            "price": 12.99,
+            "description": "The string of pearls is a trailing succulent native to South Africa. This plant has long, loose tendrils with pearl shaped foliage which retains the plants' water.",
+            "category": "succulent",
+            "sale": "CLEARANCE"
+        },
+        {
+            "id": "4",
+            "title": "Peperomia 'Rosso'",
+            "image": "./img/prod4.jpeg",
+            "price": 19.99,
+            "description": "The Rosso has very distinctive pointed leaves with an attractive flowering variety with striking red undersides and deeply grooved glossy green leaves. Native to tropical Brazil, this plant will require similar care to most peperomias and succulents",
+            "category": "peperomia",
+            "sale": ""
+        },
+        {
+            "id": "5",
+            "title": "Zamioculcas Zamiifolia 'ZZ'",
+            "image": "./img/prod5.jpeg",
+            "price": 14.99,
+            "description": "The drought-tolerant ZZ plant is a wonderful addition to low-light situations in homes and offices, but all parts of this plant are poisonous. Keep it away from children and pets.",
+            "category": "zamioculcas",
+            "sale": "CLEARANCE"
+        },
+        {
+            "id": "6",
+            "title": "Spider Plant 'Bonnie'",
+            "image": "./img/prod6.jpeg",
+            "price": 21.99,
+            "description": "The Spider plant produces small white flowers that grow along a long stalk independent to the leaves of the spider plant. Also known for their air purifying qualities, the spider plant is a great companion to any household or office.",
+            "category": "spider",
+            "sale": ""
+        },
+        {
+            "id": "7",
+            "title": "Pothos 'Golden'",
+            "image": "./img/prod7.jpeg",
+            "price": 19.99,
+            "description": "This Air purifying plant is arguably one of the easiest plants to grow indoors. The pothos grows in a vine like fashion making it a great plant to have in a hanging display to fill up any empty space on a shelf or desktop.",
+            "category": "pothos",
+            "sale": ""
+        },
+        {
+            "id": "8",
+            "title": "Calathea Lancifolia 'Rattlesnake'",
+            "image": "./img/prod8.jpeg",
+            "price": 19.99,
+            "description": "This Calathea Lancifolia also commonly called the Rattlesnake comes with dark green leaves that have unique ripples. Like all Calathea plants, the leaves adjust as the sun rotates throughout the day",
+            "category": "calathea",
+            "sale": "SALE"
+        },
+        {
+            "id": "9",
+            "title": "Money Tree 'Guiana Chestnut' Pachira Braid",
+            "image": "./img/prod9.jpeg",
+            "price": 29.99,
+            "description": "Native to central and South America, the Money Tree is a braided tree that can grow up to 6-8 feet indoors or be trained as a bonsai. In east Asia, the Money Tree is often used by those who practice Feng Shui to bring positive 'Chi', or energy, into the room.",
+            "category": "pachira",
+            "sale": ""
+        },
+        {
+            "id": "10",
+            "title": "Bird's Nest 'Nidus' Fern",
+            "image": "./img/prod10.jpeg",
+            "price": 19.99,
+            "description": "Native to the tropical regions of Asia and east Africa, Asplenium Nidus has large, light green, often crinkled leaves. This tropical plant prefers 'rainforest' conditions in partial shade or indirect sunlight, and high humidity. With the proper environment and attentive care, leaves can grow up to 5 ft long.",
+            "category": "fern",
+            "sale": ""
+        },
+        {
+            "id": "11",
+            "title": "Maranta 'Red Prayer'",
+            "image": "./img/prod11.jpeg",
+            "price": 39.99,
+            "description": "The Maranta is a evergreen perennial native to Central and South America. This plant flat oval leaves with a line pattern that runs symmetrically across the leaves.",
+            "category": "maranta",
+            "sale": ""
+        },
+        {
+            "id": "12",
+            "title": "Pothos 'Neon'",
+            "image": "./img/prod12.jpeg",
+            "price": 19.99,
+            "description": "An electrifying color variation on the standard Pothos. 'Neon' has all of the tough, reliable features houseplant lovers have come to expect from Pothos, but with glowing, neon-green foliage.",
+            "category": "pothos",
+            "sale": "SALE"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Harold Kumar",
+            "job": "Interior Designer",
+            "message": "Plant was very well packed, nice and warm and cozy with the cold protection pack. Nice plant, was well watered and arrived looking great. Very well satisfied. Would not hesitate to buy again.",
+            "image": "./img/testimonial1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Travis Klutz",
+            "job": "Artist",
+            "message": "Plant arrived wrapped beautifully, with care, and the plant was lovely and larger than expected! The vibe of my space is very important to me and Plant Heaven has any type of house plant I could ever imagine wanting. Highly recommend!",
+            "image": "./img/testimonial2.png"
+        },
+        {
+            "id": 3,
+            "name": "John Blaze",
+            "job": "Realtor",
+            "message": "As always, I love the plant... Plant Heaven is the best place to get plants online. They always arrive to the door, healthy and packed with care. I have never had a problem...",
+            "image": "./img/testimonial3.png"
+        }
+    ]
+}
