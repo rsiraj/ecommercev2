@@ -24,7 +24,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="footer-logo">
-                            <a href="index.html"><img src="/img/logo.png" alt="plant heaven logo"/></a>
+                            <a href="/"><img src="/img/logo.png" alt="plant heaven logo"/></a>
                         </div>
                     </div>
                 </div>

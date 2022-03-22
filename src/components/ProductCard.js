@@ -6,7 +6,7 @@ const ProductCard = ({data}) => {
         <div className="product">
             <div className="product-img">
                 {data.sale ? <div className="sale-badge"><span>{data.sale}</span></div>:""}
-                <img src={data.image} alt="prod2" />
+                <img src={data.image} alt={data.title} />
             </div>
             <div className="product-desc">
                 <div className="prod-flex">
