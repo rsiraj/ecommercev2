@@ -31,26 +31,26 @@ const ProductDetails = () => {
             <div class="variations color">
                 <h4>COLOR</h4>
                 <label for="" class="product-color">
-                    <input type="radio" name="color" checked id="">
+                    <input type="radio" name="color" checked id=""/>
                     <span></span>
                 </label>
                 <label for="" class="product-color">
-                    <input type="radio" name="color" id="">
+                    <input type="radio" name="color" id=""/>
                     <span></span>
                 </label>
                 <label for="" class="product-color">
-                    <input type="radio" name="color" id="">
+                    <input type="radio" name="color" id=""/>
                     <span></span>
                 </label>
                 <label for="" class="product-color">
-                    <input type="radio" name="color" id="">
+                    <input type="radio" name="color" id=""/>
                     <span></span>
                 </label>
             </div>
             <div class="variations sizes">
                 <h4>SIZE</h4>
                 <label for="" class="product-size">
-                    S <input type="radio" name="size" checked id="">
+                    S <input type="radio" name="size" checked id=""/>
                     <span></span>
                 </label>
                 <label for="" class="product-size">
@@ -58,11 +58,11 @@ const ProductDetails = () => {
                     <span></span>
                 </label>
                 <label for="" class="product-size">
-                    L <input type="radio" name="size" id="">
+                    L <input type="radio" name="size" id=""/>
                     <span></span>
                 </label>
                 <label for="" class="product-size">
-                    XL <input type="radio" name="size" id="">
+                    XL <input type="radio" name="size" id=""/>
                     <span></span>
                 </label>
             </div>
@@ -70,7 +70,7 @@ const ProductDetails = () => {
             <div class="product-action-button">
                 <div class="quantity-controls">
                     <button>-</button>
-                    <input type="number" readonly>
+                    <input type="number" readonly/>
                     <button>+</button>
                 </div>
                 <div class="tocart-control">

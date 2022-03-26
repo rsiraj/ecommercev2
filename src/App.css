@@ -327,6 +327,25 @@ nav {
 
 /*----------------------Products Page----------------------*/
 /*----------------------Products Page----------------------*/
+.filters {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+.filters input {
+  padding: 10px;
+  width: 80vw;
+  border-radius: 7px;
+  margin-right: 0.5em;
+}
+.filters select {
+  padding: 10px;
+  border-radius: 7px;
+  width: 20vw;
+}
+
 .product-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -416,7 +435,6 @@ input,
 textarea {
   display: block;
   width: 100%;
-  font-size: 1.2rem;
   line-height: 1.4;
   outline-color: var(--mainColor);
 }
@@ -490,6 +508,17 @@ input[type=submit]:active {
 
   .hero-content a {
     margin-bottom: 0.8em;
+  }
+
+  .filters {
+    flex-direction: column;
+  }
+  .filters input {
+    width: 80vw;
+    margin-bottom: 0.3em;
+  }
+  .filters select {
+    width: 80vw;
   }
 
   .product-grid {

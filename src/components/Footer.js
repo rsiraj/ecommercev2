@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const Footer = () => {
     return (
@@ -24,7 +25,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="footer-logo">
-                            <a href="/"><img src="/img/logo.png" alt="plant heaven logo"/></a>
+                            <NavLink to="/"><img src="/img/logo.png" alt="plant heaven logo"/></NavLink>
                         </div>
                     </div>
                 </div>

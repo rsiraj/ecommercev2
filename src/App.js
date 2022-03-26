@@ -6,7 +6,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
-import Products from './pages/Products';
+import ProductsContainer from './pages/ProductsContainer';
 import Contact from './pages/Contact';
 import Uconstruction from './pages/Uconstruction';
 
@@ -17,7 +17,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />}/>
-        <Route path='/products' element={<Products />}/>
+        <Route path='/products' element={<ProductsContainer />}/>
         <Route path='/contact' element={<Contact />}/>
         <Route path='/uconstruction' element={<Uconstruction />}/>
       </Routes>
