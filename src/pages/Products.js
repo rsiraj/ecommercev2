@@ -1,9 +1,5 @@
 import React from 'react';
 import ProductCard from '../components/ProductCard';
-// import Filter from '../components/Filter';
-// import Sort from '../components/Sort';
-// import InputTagCollection from '../components/InputTagCollection';
-// import Data from "../data/data.json";
 
 const Products = (props) => {
     const search = (s) => {
