@@ -515,6 +515,7 @@ input[type=submit]:active {
   }
   .filters input {
     width: 80vw;
+    margin-right: 0;
     margin-bottom: 0.3em;
   }
   .filters select {
