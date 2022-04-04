@@ -5,11 +5,17 @@ const mysql = require('mysql');
 const app = express();
 
 // connecting to the database and checking for errors if any are present
+// const db = mysql.createConnection({
+//     host: 'localhost',
+//     user: 'root',
+//     password: 'Sql12345.',
+//     database: 'plant_heaven'
+// });
 const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: 'Sql12345.',
-    database: 'plant_heaven'
+    host: 'us-cdbr-east-05.cleardb.net',
+    user: 'b3f257a4ce2b00',
+    password: '8bd82e17',
+    database: 'heroku_b202e4f31c37195'
 });
 
 db.connect(err => {
