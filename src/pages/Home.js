@@ -11,7 +11,7 @@ const Home = () => {
                         <p>Helping you take care<br/> of your plants since 2010</p>
                         <div className="hero-action-btn">
                             <a href="/products" className="btn-main">Shop</a>
-                            <a href="/uconstruction.html" className="btn-secondary-outline">Plant Care</a>
+                            <a href="/uconstruction" className="btn-secondary-outline">Plant Care</a>
                         </div>
                     </div>
                     <div className="hero-image"> 
