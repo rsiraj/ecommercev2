@@ -13,7 +13,7 @@ const ProductsContainer = () => {
             async () => {
 
                 
-                const response = await fetch(`us-cdbr-east-05.cleardb.net/api/products`);
+                const response = await fetch(`https://plantheaven-server.herokuapp.com/api/products`);
                 const content =  await response.json();
                 setAllProducts(content);
                 setFilteredProducts(content);
