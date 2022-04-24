@@ -129,6 +129,6 @@
   
     .carousel .slide img {
       width: 24% !important;
-      border-radius: 0px;
+      border-radius: 50%;
     }
   }
